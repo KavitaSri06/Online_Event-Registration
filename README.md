@@ -199,10 +199,6 @@ mvn spring-boot:run -Dspring-boot.run.profiles=dev
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-**Your Name** - [Your GitHub](https://github.com/yourusername)
-
 ## 🙏 Acknowledgments
 
 - Spring Boot Team
